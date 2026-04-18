@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm DucVuong 👋 I'm a 🚀Vietnamese Backend Engineer 🚀 I ❤️ Happy Hardcore ❤️">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="">
 </p>
 
 <!--
