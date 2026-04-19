@@ -1,3 +1,16 @@
+# Duc Vuong Dinh
+
+## Profile
+I am a passionate Backend Engineer with experience in building scalable applications. 
+
+## Contact Information
+- **Name**: Duc Vuong Dinh
+- **Position**: Backend Engineer
+
+## Learning
+Currently focused on enhancing skills in using cloud services and optimizing database performance.
+
+---
 ## Statistics
 
 <p align="center">
