@@ -1,13 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Duc%20Vuong%20Dinh&fontSize=70&animation=fadeIn" />
+  <img src="Hình ảnh GIF.gif" alt="Hồ sơ Duc Vuong Dinh - Thành phố Cyberpunk với thông tin tích hợp" width="100%">
 </p>
-
-# 💫 About Me
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=5433FF&width=500&lines=Backend+Engineer;International+IT+Student;Embedded+Systems+Enthusiast;Japanese+N1+Learner" />
-</p>
-
----
 
 
 
